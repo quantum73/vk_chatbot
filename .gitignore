@@ -1,3 +1,6 @@
+# My extensions
+settings.py.default
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
